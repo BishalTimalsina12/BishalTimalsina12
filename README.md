@@ -3,7 +3,7 @@
 **Umbraco Developer | .NET Engineer | Umbraco un-certified expert | AI and MCP**
 
 I design and build **scalable, API-driven backend systems** using **ASP.NET Core**, **Clean Architecture**, and **Umbraco CMS**.  
-Currently focused on building **AI-powered tools** that improve developer productivity and business workflows — *practical AI, not LLM deep dives*.
+Currently focused on building **AI-powered tools** that improve developer productivity.
 
 ---
 
