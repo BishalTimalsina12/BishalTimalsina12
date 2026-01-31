@@ -30,7 +30,9 @@ Currently focused on building **AI-powered tools** that improve developer produc
 Skrift Articles
 
 https://skrift.io/issues/fully-automating-umbraco-v17-backoffice-with-ai-umbraco-mcp/
+
 https://skrift.io/issues/dynamic-google-maps-integration-in-umbraco-code-first-guide/
+
 https://skrift.io/issues/customizing-the-umbraco-tour-in-a-few-simple-steps/
 
 -  Writing about **.NET, Umbraco, AI**
