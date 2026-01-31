@@ -23,13 +23,16 @@ Currently focused on building **AI-powered tools** that improve developer produc
 - AI-assisted **developer tools & diagnostics**
 - Productivity-focused **automation & insights**
 - Practical AI integration in **APIs, CMS platforms, and dashboards**
+- A practical project which i built for umbraco community an open source MCP that connects ai tools like cursor directly to the umbraco forum.
+- https://www.nuget.org/packages/UForum-MCP/1.0.7
 
 ---
 
 ###  Community & Knowledge Sharing
-![Skrift Author](https://skrift.io/authors/bishal-tim/)
-
-
+![Skrift Articles]
+https://skrift.io/issues/fully-automating-umbraco-v17-backoffice-with-ai-umbraco-mcp/
+https://skrift.io/issues/dynamic-google-maps-integration-in-umbraco-code-first-guide/
+https://skrift.io/issues/customizing-the-umbraco-tour-in-a-few-simple-steps/
 
 -  Writing about **.NET, Umbraco, AI**
 
