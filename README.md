@@ -1,16 +1,45 @@
-## Hi there 👋
+## Bishal Tim
 
-<!--
-**BishalTimalsina12/BishalTimalsina12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Umbraco Developer | .NET Engineer | Umbraco un-certified expert | AI and MCP**
 
-Here are some ideas to get you started:
+I design and build **scalable, API-driven backend systems** using **ASP.NET Core**, **Clean Architecture**, and **Umbraco CMS**.  
+Currently focused on building **AI-powered tools** that improve developer productivity and business workflows — *practical AI, not LLM deep dives*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Core Expertise
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-0A66C2?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C2C2C?style=flat)
+![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat&logo=umbraco&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+---
+
+###  AI in My Projects
+- AI-assisted **developer tools & diagnostics**
+- Productivity-focused **automation & insights**
+- Practical AI integration in **APIs, CMS platforms, and dashboards**
+
+---
+
+###  Community & Knowledge Sharing
+![Skrift Author](https://skrift.io/authors/bishal-tim/)
+
+
+
+-  Writing about **.NET, Umbraco, AI**
+
+---
+
+###  What I Care About
+- Engineering solutions that scale with teams
+- Using AI to **make software simpler, not more complex**
+
+
+
+---
+📫 **LinkedIn:** [linkedin.com/in/bishal-tim](https://www.linkedin.com/in/bishal-tim-b4322a274/)
