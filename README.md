@@ -20,10 +20,8 @@ Currently focused on building **AI-powered tools** that improve developer produc
 ---
 
 ###  AI in My Projects
-- AI-assisted **developer tools & diagnostics**
-- Productivity-focused **automation & insights**
 - Practical AI integration in **APIs, CMS platforms, and dashboards**
-- A practical project which i built for umbraco community an open source MCP that connects ai tools like cursor directly to the umbraco forum.
+- A practical project  for umbraco community an open source MCP that connects ai tools like cursor directly to the umbraco forum.
 - https://www.nuget.org/packages/UForum-MCP/1.0.7
 
 ---
